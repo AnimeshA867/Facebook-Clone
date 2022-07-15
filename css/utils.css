@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+hr{
+    width:100%;
+    color:#d9d9d9a3;
+}
+button{
+    height:100%;
+    width:100%;
+    color:white;
+    border-radius: 6px;
+    cursor:pointer;
+}
+input{
+    height:100%;
+    width:100%;
+    padding-left:19px;
+    font-size: 0.938;
+    font-weight: 300;
+    /* color:grey; */
+    border: 1px #8080804f solid;
+    border-radius: 6px;
+    cursor:text;
+  }
